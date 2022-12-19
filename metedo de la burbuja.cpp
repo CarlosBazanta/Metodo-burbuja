@@ -63,7 +63,7 @@ for(a=0;a<=9;a++){
 }
 for(i=0;i<10;i++){
 	
-printf("\n\tEste es su valor ordenado de mayor a menor %i\n",valor[i]);
+printf("\n\tEste es su valor ordenado de mayor a menor = %i\n",valor[i]);
 
 }
 
